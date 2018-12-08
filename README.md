@@ -1,6 +1,9 @@
 simboss-php-sdk
 ---
 [SIMBOSS API](https://www.simboss.com/www/api-doc/index.html) SDK
+##特别说明
+官方SDK存在毫秒timestamp转float之后科学计数的问题
+
 
 ## 快速开始
 
@@ -8,7 +11,7 @@ simboss-php-sdk
 
 ```json
 "require": {
-        "simboss/sdk" : "1.0.0"
+        "lyzhang1999/simboss-php-sdk-wangwei" : "1.0.0"
     }
 ```
 
