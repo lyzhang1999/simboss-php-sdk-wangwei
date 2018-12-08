@@ -1,11 +1,11 @@
 {
-	"name" : "simboss/sdk-wangwei",
+	"name" : "lyzhang1999/simboss-php-sdk-wangwei",
 	"type" : "library",
-	"description" : "simboss php sdk",
+	"description" : "simboss php sdk edit by wangwei",
 	"homepage" : "http://www.simboss.com",
 	"license" : "MIT",
 	"support" : {
-		"email" : "liuwei@qipeng.com"
+		"email" : "wangwei@qingyangkeji.cn"
 	},
 	"keywords" : [
 		"simboss",
